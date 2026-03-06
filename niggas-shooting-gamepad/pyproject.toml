@@ -1,0 +1,12 @@
+[project]
+name = "overclock-arena"
+version = "0.1.0"
+description = "Overclock Arena game"
+requires-python = ">=3.12,<3.14"
+
+dependencies = [
+  "pygame-ce==2.5.6",
+  "supabase==2.28.0",
+  "httpx>=0.26,<0.29",
+  "typing-extensions>=4.8",
+]
