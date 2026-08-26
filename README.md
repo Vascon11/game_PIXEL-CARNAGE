@@ -10,21 +10,14 @@
   <img src="https://img.shields.io/badge/plataforma-Windows%20%7C%20Linux%20%7C%20macOS-6b7280?style=for-the-badge" />
 </p>
 
-<!--
-  IMAGENS — para adicionar:
-  1. Rode o jogo e capture 2 ou 3 telas (menu, gameplay com muitos inimigos, luta de boss).
-  2. Crie a pasta docs/ neste repositório e coloque os arquivos lá.
-  3. Apague este comentário e descomente o bloco abaixo.
-
 <p align="center">
-  <img src="docs/gameplay.png" width="80%" alt="Gameplay do Pixel Carnage" />
+  <img src="docs/gameplay.png" width="80%" alt="Gameplay do Pixel Carnage — onda 4, jogador com escudo ativo" />
 </p>
 
 <p align="center">
-  <img src="docs/boss.png" width="49%" alt="Luta contra boss" />
-  <img src="docs/menu.png" width="49%" alt="Menu inicial" />
+  <img src="docs/boss.png" width="49%" alt="Luta contra o boss da onda 5" />
+  <img src="docs/menu.png" width="49%" alt="Menu inicial do jogo" />
 </p>
--->
 
 ## O jogo
 
