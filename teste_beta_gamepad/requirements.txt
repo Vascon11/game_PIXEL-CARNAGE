@@ -1,0 +1,11 @@
+# requirements.txt
+# Projeto testado em: Python >=3.12,<3.14
+
+pygame-ce==2.5.6
+
+# Supabase
+supabase==2.28.0
+
+# Networking
+httpx>=0.26,<0.29
+typing-extensions>=4.8
